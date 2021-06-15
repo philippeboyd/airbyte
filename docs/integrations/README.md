@@ -69,7 +69,7 @@ Airbyte uses a grading system for connectors to help users understand what to ex
 
 ### Destinations
 | Connector | Grade |
-|----|----|----|
+|----|----|
 |[BigQuery](./destinations/bigquery.md)| Certified |
 |[Local CSV](./destinations/local-csv.md)| Certified |
 |[Local JSON](./destinations/local-json.md)| Certified |
